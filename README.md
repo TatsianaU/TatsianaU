@@ -28,37 +28,37 @@ My background in accounting and business operations helps me understand not only
 - SQLite and PostgreSQL
 - Docker and VPS deployment
 
-## Featured Projects
+## Projects
 
-### [Travel Places](https://github.com/TatsianaU/travel-places)
+### Landing Pages & Websites
 
-A React application for managing and exploring travel destinations.
+**Tea Landing Page**  
+Responsive educational landing page from a Figma mockup. Built with HTML, CSS, and Bootstrap. Search and order processing were outside the assignment.  
+[Live demo](https://tatsianau.github.io/tea-landing-page/) · [Code](https://github.com/TatsianaU/tea-landing-page)
 
-Built with React 19, React Router, TanStack Query, TanStack Table, TanStack Virtual, Zustand, React Hook Form, Zod, Radix UI, and JSON Server.
+### React Applications
 
-### [WhatsApp Insurance Bot](https://github.com/TatsianaU/whatsapp-insurance-bot)
+**Breath App**  
+React app with timed breathing patterns, synchronized animation, optional sound, and visual backgrounds. Interface in Russian.  
+[Live demo](https://breath-app-phi.vercel.app) · [Code](https://github.com/TatsianaU/breath-app)
 
-A multilingual WhatsApp automation system for an insurance broker.
+**Travel Places**  
+React app for managing and exploring travel destinations: forms, tables, filters, URL state, and a large-feed demo with virtualization.  
+[Code](https://github.com/TatsianaU/travel-places)
 
-The bot handles customer scenarios in four languages, qualifies leads, collects structured information, calculates lead scores, stores data, and transfers conversations to a human specialist when necessary.
+### AI & Automation
 
-### [Breath App](https://github.com/TatsianaU/breath-app)
+**WhatsApp Insurance Bot**  
+Multilingual WhatsApp automation for an insurance broker: qualification flows, rule-based lead scoring, SQLite storage, and human handoff.  
+[Code](https://github.com/TatsianaU/whatsapp-insurance-bot)
 
-A React breathing application that guides users through timed breathing patterns with synchronized visual animations.
+**Notes App with MCP**  
+Node.js and Express notes app that stores, reads, searches, updates, and deletes notes through an external Model Context Protocol filesystem server.  
+[Code](https://github.com/TatsianaU/NotesApp_MCP)
 
-[Live demo](https://breath-app-phi.vercel.app)
-
-### [Notes App with MCP](https://github.com/TatsianaU/NotesApp_MCP)
-
-A Node.js and Express notes application that uses an external Model Context Protocol filesystem server for storing, reading, searching, updating, and deleting notes.
-
-### [Weather Telegram Bot](https://github.com/TatsianaU/Weather-app)
-
-A Telegram bot that provides current weather, forecasts, geolocation-based results, air-quality information, city comparisons, and scheduled notifications using the OpenWeather API.
-
-### [Travel Wallet Bot](https://github.com/TatsianaU/currency-travel-bot)
-
-A Telegram bot for managing travel budgets, currencies, balances, and expenses using an exchange-rate API and SQLite.
+**PDF Invoice Generator**  
+Python tool that generates PDF invoices from CSV or JSON data using reusable HTML templates.  
+[Code](https://github.com/TatsianaU/pdf-checkmaker)
 
 ## Current Focus
 
