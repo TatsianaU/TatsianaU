@@ -36,6 +36,10 @@ My background in accounting and business operations helps me understand not only
 Responsive educational landing page from a Figma mockup. Built with HTML, CSS, and Bootstrap. Search and order processing were outside the assignment.  
 [Live demo](https://tatsianau.github.io/tea-landing-page/) · [Code](https://github.com/TatsianaU/tea-landing-page)
 
+**Pizza Cheff Landing**  
+Responsive educational pizza landing page from a design mockup. Built with HTML, CSS (BEM), and vanilla JavaScript. Includes an accessible mobile menu; cart and order form are demonstrational only.  
+[Live demo](https://tatsianau.github.io/pizza-landing-page/) · [Code](https://github.com/TatsianaU/pizza-landing-page)
+
 **Registration Form**  
 Educational sign-up and sign-in interface built from a design mockup with HTML, CSS, and JavaScript. Includes responsive layouts, client-side validation, and a keyboard-accessible demo dialog.  
 [Live demo](https://tatsianau.github.io/registration-form/) · [Code](https://github.com/TatsianaU/registration-form)
